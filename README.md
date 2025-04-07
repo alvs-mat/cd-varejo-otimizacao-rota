@@ -30,7 +30,7 @@ Este projeto utiliza a API do Google Maps para otimizar rotas logísticas com ba
 
 ## 📌 Exemplo
 
-<img src="img/exemplo.png" width="600">
+<img src="exemplo_rota_google_maps.png" width="800">
 
 ## 📬 Contato
 
